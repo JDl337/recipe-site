@@ -1,6 +1,7 @@
 * {
   background-color: #073642;
   color: #839496;
+  font-size: 24px;
 }
 
 .heading {
@@ -15,6 +16,5 @@
 }
 
 .subheading {
-  font-size: 32px;
+  font-size: 24px;
 }
-
