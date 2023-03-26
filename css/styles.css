@@ -2,3 +2,11 @@
   background-color: #073642;
   color: #839496;
 }
+
+h1 {
+  font-weight: 900;
+  font-size: 42px;
+  color: #d33682;
+  text-align: center;
+  text-decoration: underline;
+}
