@@ -3,10 +3,18 @@
   color: #839496;
 }
 
-h1 {
+.heading {
   font-weight: 900;
-  font-size: 42px;
   color: #d33682;
-  text-align: center;
   text-decoration: underline;
 }
+
+.page-heading {
+  font-size: 42px;
+  text-align: center;
+}
+
+.subheading {
+  font-size: 32px;
+}
+
